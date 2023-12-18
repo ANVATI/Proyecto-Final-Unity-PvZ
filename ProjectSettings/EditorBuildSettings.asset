@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: "Assets/Scenes/Men\xFA.unity"
+    guid: 516cc93404c0be749b388f074f30d617
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Win.unity
+    guid: 863eead0b7f23c941b03eb7b49cb7dc5
+  - enabled: 1
+    path: Assets/Scenes/Lose.unity
+    guid: fa3e59ad023b02c488e11ca13bf2a4a0
+  m_configObjects: {}
